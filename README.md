@@ -33,7 +33,7 @@ My current work includes performance reporting, KPI analysis, process documentat
 
 ## 📁 Projects
 
-Projects will be added here as I continue building analyses focused on practical business questions, data visualization, and decision-making.
+Projects will be added here as I continue building analyses focused on practical business questions, data visualization, and actionable insights.
 
 ## 🎯 Areas of Interest
 
