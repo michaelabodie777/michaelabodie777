@@ -25,7 +25,7 @@ My current work includes performance reporting, KPI analysis, process documentat
 
 **Business & Collaboration:** Google Workspace · Microsoft Office
 
-**Platforms:** CM360 · Meta · TikTok · Snapchat · Reddit · Pinterest
+**Paid Media & Advertising Platforms:** CM360 · Meta · TikTok · Snapchat · Reddit · Pinterest
 
 **Additional Technical Exposure:** Python · R / R Markdown
 
