@@ -1,6 +1,6 @@
 # Hi, I'm Michaela 👋
 
-I'm an analyst with experience turning data into clear reporting, actionable insights, and more efficient business processes.
+I'm an analyst with experience turning data into clear reporting, actionable insights, and more effective business processes.
 
 My work has involved performance reporting, KPI analysis, process documentation, stakeholder collaboration, and improving recurring analytical workflows. I'm especially interested in opportunities where data can be used to support better business, product, and operational decisions.
 
