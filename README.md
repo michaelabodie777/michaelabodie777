@@ -2,7 +2,7 @@
 
 I'm an analyst working in data and marketing analytics, with experience turning performance data into clear reporting, actionable insights, and more efficient business processes.
 
-My current work includes performance reporting, KPI analysis, process documentation, stakeholder collaboration, and improving recurring analytical workflows. I’m also interested in broader applications of data and analytics across business intelligence, product analytics, and operations.
+My current work includes performance reporting, KPI analysis, process documentation, stakeholder collaboration, and improving recurring analytical workflows. I’m also interested in broader applications of data and analytics across business intelligence, product analytics, and operations!
 
 ## 📊 Current Focus
 
