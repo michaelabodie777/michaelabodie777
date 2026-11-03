@@ -13,7 +13,7 @@ My current work includes performance reporting, KPI analysis, process documentat
 
 ## 🛠️ Skills & Tools
 
-**Data & Analytics:** SQL (BigQuery) · Excel · 
+**Data & Analytics:** SQL (BigQuery) · Excel
 
 **Version Control & Development:** Git · GitHub
 
