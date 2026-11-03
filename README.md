@@ -21,6 +21,8 @@ My work includes performance reporting, KPI analysis, process documentation, sta
 
 **AI & Workflow:** Microsoft Copilot · AI Agents · Prompt Development · Workflow Optimization
 
+**Additional AI Tools:** ChatGPT
+
 **Business & Collaboration:** Google Workspace · Microsoft Office
 
 **Platforms:** CM360 · Meta · TikTok · Snapchat · Reddit · Pinterest
