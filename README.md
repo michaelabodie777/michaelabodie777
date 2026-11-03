@@ -1,4 +1,4 @@
-# Hi, I'm Michaela 👋
+# Hi, I'm Michaela! 👋
 
 I'm an analyst working in data and marketing analytics, with experience turning performance data into clear reporting, actionable insights, and more efficient business processes.
 
