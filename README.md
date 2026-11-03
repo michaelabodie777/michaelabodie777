@@ -1,34 +1,35 @@
 # Hi, I'm Michaela 👋
 
-I'm an analyst with experience turning data into clear reporting, actionable insights, and more effective business processes.
+I'm an analyst working in data and marketing analytics, with experience turning performance data into clear reporting, actionable insights, and more efficient business processes.
 
-My work has involved performance reporting, KPI analysis, process documentation, stakeholder collaboration, and improving recurring analytical workflows. I'm especially interested in opportunities where data can be used to support better business, product, and operational decisions.
+My work includes performance reporting, KPI analysis, process documentation, stakeholder collaboration, and improving recurring analytical workflows. I’m also interested in broader applications of data and analytics across business intelligence, product analytics, and operations.
 
-## 📊 What I'm Working On
+## 📊 Current Focus
 
-- Building a portfolio of business and data analytics projects
-- Expanding my dashboarding and data visualization skills
-- Strengthening my SQL and analytics workflow capabilities
-- Applying Git and GitHub to professional analytics projects
+- Expanding my dashboarding and data visualization capabilities
+- Strengthening my SQL and analytical workflow skills
+- Building practical analytics projects around real business questions
+- Exploring AI-assisted approaches to analytics and workflow improvement
 
 ## 🛠️ Skills & Tools
 
-**Analytics:** Data Analysis · KPI Reporting · Business Analysis · Data Visualization · Process Improvement
+**Data & Analytics:** SQL (BigQuery) · Excel · Git · GitHub
 
-**Technical:** SQL · Excel · Git · GitHub
+**Visualization & Reporting:** Google Looker Studio · Tableau · KPI Reporting · Performance Analysis
 
-**Currently Developing:** Power BI · Tableau · Advanced analytics workflows
+**Marketing Analytics:** Campaign Measurement · Paid Media Analytics · Audience & Creative Performance Analysis
 
-## 📁 Portfolio
+**AI & Workflow:** Microsoft Copilot · AI Agents · Prompt Development · Workflow Optimization
 
-My portfolio is currently being built. Upcoming projects will focus on practical business problems and demonstrate the full analytics process — from data exploration and analysis to visualization, insights, and recommendations.
+**Business & Collaboration:** Google Workspace · Microsoft Office
 
-### Planned Projects
+**Platforms:** CM360 · Meta · TikTok · Snapchat · Reddit · Pinterest
 
-- Marketing & Campaign Performance Analysis
-- SQL Business Analysis
-- Power BI Dashboard
-- Tableau Data Visualization
+**Additional Technical Exposure:** Python · R / R Markdown
+
+## 📁 Projects
+
+Projects will be added here as I continue building analyses focused on practical business questions, data visualization, and decision-making.
 
 ## 🎯 Areas of Interest
 
@@ -36,4 +37,4 @@ Data Analytics · Business Intelligence · Product Analytics · Marketing Analyt
 
 ---
 
-Thanks for visiting my GitHub! More projects are coming soon.
+Thanks for visiting my GitHub!
